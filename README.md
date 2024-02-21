@@ -7,7 +7,7 @@ I'm developing some new projects to gain knowledge and thus get my first job as 
 
 my projects:
 https://detonaralph-claudio.netlify.app/ - <!--Game Detona Ralph -->: <Br>
-https://conversor-preconet-precobruto.netlify.app/ - <!-- commercial tax converter -->
+https://conversor-preconet-precobruto.netlify.app/ - <!-- commercial tax converter --> <br>
 https://jogodamemoriafilho.netlify.app/ <!-- Game Memória -->
 
           
