@@ -12,8 +12,8 @@ https://jogodamemoriafilho.netlify.app/  Game Memória
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A1udio-roberto-08486b186/)
-[![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]          
-          
+         
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)       
 
 <!--
 
