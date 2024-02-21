@@ -11,7 +11,7 @@ https://conversor-preconet-precobruto.netlify.app/ - commercial tax converter <b
 https://jogodamemoriafilho.netlify.app/  Game Memória 
 
 
-[! <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/cl%C3%A1udio-roberto-08486b186/)
+[!Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/cl%C3%A1udio-roberto-08486b186/)
           
           
 
