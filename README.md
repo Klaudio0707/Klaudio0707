@@ -5,6 +5,19 @@ I'm a computer technician, but I'm currently studying Systems Analysis and Devel
 
 I'm developing some new projects to gain knowledge and thus get my first job as a dev.
 
+my projects:
+https://detonaralph-claudio.netlify.app/ - <!--Game Detona Ralph -->:
+https://conversor-preconet-precobruto.netlify.app/ - <!-- commercial tax converter -->
+https://jogodamemoriafilho.netlify.app/ <!-- Game Memória -->
+
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+          
+          
+
 <!--
 
 -->
