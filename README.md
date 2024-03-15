@@ -1,5 +1,5 @@
 #### 👋 Hello! Welcome to my Github profile.
-## My name is Cláudio Roberto and my nickname is klaudio0707!
+## My name is Cláudio Roberto !
 
 I'm a computer technician, but I'm currently studying Systems Analysis and Development in Nassau.
 
@@ -7,7 +7,7 @@ I'm developing some new projects to gain knowledge and thus get my first job as 
 
 my projects: <br>
 <a href="https://detonaralph-claudio.netlify.app/">
-<img src="" alt="">
+<img src="ralph.png" alt="">
 https://detonaralph-claudio.netlify.app/ - Game Detona Ralph : <Br>
 </a>
 https://conversor-preconet-precobruto.netlify.app/ - commercial tax converter <br>
