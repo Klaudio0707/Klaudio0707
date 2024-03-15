@@ -9,7 +9,7 @@ my projects: <br>
 
 https://detonaralph-claudio.netlify.app/____________Jogo Detona Ralph : <Br>
 https://conversor-preconet-precobruto.netlify.app/__Commercial Tax Converter <br>
-https://jogodamemoriafilho.netlify.app/____________Jogo Memória 
+https://jogodamemoriafilho.netlify.app/____________Jogo Memória <br>
 https://curriculo1954.netlify.app/_________________Currículo
 
 
