@@ -7,7 +7,7 @@ I'm developing some new projects to gain knowledge and thus get my first job as 
 
 my projects: <br>
 <a href="https://detonaralph-claudio.netlify.app/">
-<img src="ralph.png" alt="">
+<img src="" alt="">
 https://detonaralph-claudio.netlify.app/ - Game Detona Ralph : <Br>
 </a>
 https://conversor-preconet-precobruto.netlify.app/ - commercial tax converter <br>
