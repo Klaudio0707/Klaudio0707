@@ -12,6 +12,7 @@ https://conversor-preconet-precobruto.netlify.app/_ Commercial Tax Converter <br
 https://jogodamemoriafilho.netlify.app/____________ Jogo Memória <br>
 https://curriculo1954.netlify.app/_________________ Currículo <br>
 https://jogodasorte.netlify.app/ ___________________ Jogo da Sorte
+https://chimerical-cat-8f8efb.netlify.app/ ____________ Landing Page - Propaganda de Refrigerante
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A1udio-roberto-08486b186/)
