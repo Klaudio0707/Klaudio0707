@@ -11,7 +11,7 @@ https://detonaralph-claudio.netlify.app/____________ Jogo Detona Ralph : <Br>
 https://conversor-preconet-precobruto.netlify.app/_ Commercial Tax Converter <br>
 https://jogodamemoriafilho.netlify.app/____________ Jogo Memória <br>
 https://curriculo1954.netlify.app/_________________ Currículo <br>
-https://jogodasorte.netlify.app/ ___________________ Jogo da Sorte
+https://jogodasorte.netlify.app/ ___________________ Jogo da Sorte <br>
 https://chimerical-cat-8f8efb.netlify.app/ ____________ Landing Page - Propaganda de Refrigerante
 
 
