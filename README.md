@@ -12,7 +12,7 @@ https://conversor-preconet-precobruto.netlify.app/ _ Commercial Tax Converter <b
 https://jogodamemoriafilho.netlify.app/____________ Jogo Memória <br>
 https://curriculo1954.netlify.app/_________________ Currículo <br>
 https://jogodasorte.netlify.app/ ___________________ Jogo da Sorte <br>
-https://chimerical-cat-8f8efb.netlify.app/ ____________ Landing Page - Propaganda de Refrigerante
+https://chimerical-cat-8f8efb.netlify.app/ ____________ Landing Page - Propaganda de Refrigerante <br>
 https://calculadora-dio.netlify.app/ ___________________Calculadora - React
 
 
