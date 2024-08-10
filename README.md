@@ -13,7 +13,8 @@ https://jogodamemoriafilho.netlify.app/____________ Jogo Memória <br>
 https://curriculo1954.netlify.app/_________________ Currículo <br>
 https://jogodasorte.netlify.app/ ___________________ Jogo da Sorte <br>
 https://chimerical-cat-8f8efb.netlify.app/ ____________ Landing Page - Propaganda de Refrigerante <br>
-https://calculadora-dio.netlify.app/ ___________________Calculadora - React
+https://calculadora-dio.netlify.app/ ___________________Calculadora - React<br>
+https://simulador-fgts.netlify.app/ ____________________ Simulador FGTS
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cl%C3%A1udio-roberto-08486b186/)
