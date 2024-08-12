@@ -60,7 +60,9 @@
   <img src="https://streak-stats.demolab.com?user=Klaudio0707&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaudio0707&layout=compact"/>
+<h3>Projects</h3
+<button><a hrf="https://calculadora-dio.netlify.app/">calculadora REACT</a></button>
+ 
 </div>
 
 ###
