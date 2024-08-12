@@ -27,7 +27,7 @@
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
-<h3>Projects</h3
+<h3>Projects</h3>
               
 [![Calculadora React](https://img.shields.io/badge/Calculadora_React-4285f4?style=for-the-badge)](https://calculadora-dio.netlify.app)             
 [![Refrigerante](https://img.shields.io/badge/Refrigerante-836FFF?style=for-the-badge)](https://propagandarefrigerante.netlify.app)  
@@ -35,7 +35,9 @@
 [![Simulador FGTS](https://img.shields.io/badge/Calculadora_FGTS-7B68EE?style=for-the-badge)](https://simulador-fgts.netlify.app)   
  
 </div>
+
 ###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
