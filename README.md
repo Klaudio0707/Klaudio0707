@@ -61,7 +61,9 @@
 </div>
 <div align="center">
 <h3>Projects</h3
-<button><a hrf="https://calculadora-dio.netlify.app/">calculadora REACT</a></button>
+              
+ [![Calculadora React](https://img.shields.io/badge/Text-Color?style=for-the-badge)](https://calculadora-dio.netlify.app)             
+
  
 </div>
 
