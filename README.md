@@ -1,29 +1,3 @@
-# Cláudio, Desenvolvedor Front-end
-
-## Sobre mim
-Olá! Sou o Cláudio, um apaixonado por desenvolvimento front-end. Atualmente, estou trabalhando em...
-
-## Habilidades
-* **Linguagens:** JavaScript, TypeScript, HTML, CSS
-* **Frameworks:** React, Angular
-* **Ferramentas:** Git, npm, webpack
-
-## Projetos
-* **Calculadora React:** Uma calculadora simples desenvolvida com React. [Link]
-    * **Tecnologias:** React, JavaScript
-    * **Desafios:** Implementar a lógica de cálculo
-* **... outros projetos ...**
-
-## Contato
-* **Email:** claudio@email.com
-* **LinkedIn:** https://www.linkedin.com/in/claudio
-* **GitHub:** https://github.com/Klaudio0707
-
-## Badges
-[![GitHub last commit](https://img.shields.io/github/last-commit/Klaudio0707/meu-repositorio?style=flat-square)](#)
-
-
-
 
 <div align="center">
   <img height="150" src="https://github.com/Klaudio0707/src-img/blob/main/pc.gif"  />
