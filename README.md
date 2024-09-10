@@ -29,8 +29,12 @@
 [![Calculadora React](https://img.shields.io/badge/Calculadora_React-4285f4?style=for-the-badge)](https://calculadora-dio.netlify.app)             
 [![Refrigerante](https://img.shields.io/badge/Refrigerante-836FFF?style=for-the-badge)](https://propagandarefrigerante.netlify.app)  
 [![Jogo da Sorte](https://img.shields.io/badge/Jogo_da_Sorte-00FF00?style=for-the-badge)](https://jogodasorte.netlify.app)   
-[![Simulador FGTS](https://img.shields.io/badge/Calculadora_FGTS-7B68EE?style=for-the-badge)](https://simulador-fgts.netlify.app)   
- 
+[![Simulador FGTS](https://img.shields.io/badge/Calculadora_FGTS-7B68EE?style=for-the-badge)](https://simulador-fgts.netlify.app) 
+
+[![Wiki GitHub React]( https://propagandarefrigerante.netlify.app//)  
+[![Wiki GitHub React]( https://wiki-react-silk.vercel.app/)  
+[![Find GitHub React]( https://git-find-gamma.vercel.app/)  
+
 </div>
 
 ###
