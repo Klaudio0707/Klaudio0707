@@ -31,8 +31,8 @@
 [![Jogo da Sorte](https://img.shields.io/badge/Jogo_da_Sorte-00FF00?style=for-the-badge)](https://jogodasorte.netlify.app)   
 [![Simulador FGTS](https://img.shields.io/badge/Calculadora_FGTS-7B68EE?style=for-the-badge)](https://simulador-fgts.netlify.app) 
 
-[![Wiki GitHub React](https://img.shields.io/badge/WikiGITHUB-7B68EE?style=for-the-badge)](https://wiki-react-silk.vercel.app/)  
-[![Find GitHub React]( https://git-find-gamma.vercel.app/)  
+[![Wiki GitHub React](https://img.shields.io/badge/Wiki_GITHUB-7B68EE?style=for-the-badge)](https://wiki-react-silk.vercel.app/)  
+[![Find GitHub React](https://img.shields.io/badge/Find_GITHUB-7B68EE?style=for-the-badge)]( https://git-find-gamma.vercel.app/)  
 
 </div>
 
