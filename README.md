@@ -33,6 +33,7 @@
 
 [![Wiki GitHub React](https://img.shields.io/badge/Wiki_GITHUB-00FF00?style=for-the-badge)](https://wiki-react-silk.vercel.app/)  
 [![Find GitHub React](https://img.shields.io/badge/Find_GITHUB-4285f4?style=for-the-badge)]( https://git-find-gamma.vercel.app/)  
+[![Tabela React](https://img.shields.io/badge/Tabela-React-00FF00?style=for-the-badge)](https://tabela-8ji9dtpz8-claudio-robertos-projects.vercel.app/)   
 
 </div>
 
