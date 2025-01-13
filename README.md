@@ -70,8 +70,7 @@
 
 <div align="center">
  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=klaudio0707)](https://git.io/streak-stats)
- [![GitHub Streak](https://streak-stats.demolab.com?user=klaudio0707&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=klaudio0707&theme=dark&hide)](https://git.io/streak-stats)
 </div>
 
 
