@@ -37,8 +37,6 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
 
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
-
 <h4 align="left">🌐 Frontend</h4>
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="JavaScript logo" />
@@ -75,7 +73,7 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" height="40" alt="Figma logo" />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/IntelliJ-Dark.svg" height="40" alt="IntelliJ IDEA logo" />
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" height="40" alt="IntelliJ_Logo" />
 </div>
 ###
 
