@@ -42,6 +42,8 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="React logo" />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" height="40" alt="Next.js logo" />
+  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="CSS logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="HTML logo" />
@@ -51,6 +53,8 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height="40" alt="Firebase logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="40" alt="VSCode logo" />
   <img width="12" />
