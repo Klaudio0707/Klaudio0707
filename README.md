@@ -37,6 +37,9 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
 
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+
+<h4 align="left">🌐 Frontend</h4>
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
@@ -47,7 +50,10 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="CSS logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="HTML logo" />
-  <img width="12" />
+</div>
+
+<h4 align="left">🔧 Backend</h4>
+<div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="40" alt="Node.js logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="40" alt="MongoDB logo" />
@@ -56,9 +62,16 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height="40" alt="Firebase logo" />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" height="40" alt="Java logo" />
+</div>
+
+<h4 align="left">🛠 Ferramentas</h4>
+<div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="40" alt="VSCode logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" alt="GitHub logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/IntelliJ-Dark.svg" height="40" alt="IntelliJ IDEA logo" />
 </div>
 
 ###
