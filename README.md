@@ -43,6 +43,8 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="40" alt="TypeScript logo" />
+  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="React logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" height="40" alt="Next.js logo" />
@@ -71,9 +73,10 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" alt="GitHub logo" />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" height="40" alt="Figma logo" />
+  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/IntelliJ-Dark.svg" height="40" alt="IntelliJ IDEA logo" />
 </div>
-
 ###
 
 <h3 align="left">🔥 Minhas Estatísticas</h3>
