@@ -23,7 +23,7 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
 
 ###
 <div align= "center>  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaudio0707&layout=compact&langs_count=6)
+[![Top Langs]](https://github-readme-stats.vercel.app/api/top-langs/?username=klaudio0707&layout=compact&langs_count=6)
 
 
 </div>
