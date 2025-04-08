@@ -22,6 +22,7 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
 </p>
 
 ###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?klaudio0707=anuraghazra&hide=contribs,prs)
 
 <h3>🚀 Projetos em Destaque</h3>
               
