@@ -22,8 +22,8 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
 </p>
 
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?klaudio0707=anuraghazra&hide=contribs,prs)
-
+[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?klaudio0707=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?klaudio0707=anuraghazra&show_icons=true)
 <h3>🚀 Projetos em Destaque</h3>
               
 [![Calculadora React](https://img.shields.io/badge/Calculadora_React-4285f4?style=for-the-badge)](https://calculadora-dio.netlify.app)             
