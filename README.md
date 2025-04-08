@@ -45,48 +45,55 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
 </div>     
 
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
-<div style="display: flex; flex-direction: row; gap: 10px; justify-content: center; align-items: center;">
-<h4 align="left">🌐 Frontend</h4>
-<div align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="React logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" height="40" alt="Next.js logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="CSS logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="HTML logo" />
-</div>
+<h3 align="center">🛠 Linguagens e Ferramentas</h3>
+<div style="display: flex; flex-direction: row; gap: 30px; justify-content: center; align-items: flex-start; text-align: left;">
 
-<h4 align="left">🔧 Backend</h4>
-<div align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height="40" alt="Firebase logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" height="40" alt="Java logo" />
-</div>
+  <div>
+    <h4>🌐 Frontend</h4>
+    <div>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="JavaScript logo" />
+      <img width="12" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="40" alt="TypeScript logo" />
+      <img width="12" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="React logo" />
+      <img width="12" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" height="40" alt="Next.js logo" />
+      <img width="12" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="CSS logo" />
+      <img width="12" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="HTML logo" />
+    </div>
+  </div>
 
-<h4 align="left">🛠 Ferramentas</h4>
-<div align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="40" alt="VSCode logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" alt="GitHub logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" height="40" alt="Figma logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" height="40" alt="IntelliJ logo" />
-</div>
-</div>
 
+  <div>
+    <h4>🔧 Backend</h4>
+    <div>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="40" alt="Node.js logo" />
+      <img width="12" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="40" alt="MongoDB logo" />
+      <img width="12" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="40" alt="MySQL logo" />
+      <img width="12" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height="40" alt="Firebase logo" />
+      <img width="12" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" height="40" alt="Java logo" />
+    </div>
+  </div>
+
+  <div>
+    <h4>🛠 Ferramentas</h4>
+    <div>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" height="40" alt="VSCode logo" />
+      <img width="12" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" alt="GitHub logo" />
+      <img width="12" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" height="40" alt="Figma logo" />
+      <img width="12" />
+      <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" height="40" alt="IntelliJ logo" />
+    </div>
+  </div>
+</div>
 ###
 
 <h3 align="left">🔥 Minhas Estatísticas</h3>
