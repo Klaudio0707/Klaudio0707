@@ -43,7 +43,7 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
     <img src="https://img.shields.io/badge/Tabela_React-00FF00?style=for-the-badge" alt="Tabela React">
   </a>
 </div>     
-###
+
 
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
