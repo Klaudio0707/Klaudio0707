@@ -23,8 +23,8 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
 
 ###
 <div align= "center>  
-[![Anurag's GitHub stats]](https://github-readme-stats.vercel.app/api?username=klaudio0707&show_icons=true&theme=radical)
-  ![React](https://img.shields.io/badge/Code-React-blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaudio0707&layout=compact&langs_count=5)
+
 
 </div>
 
