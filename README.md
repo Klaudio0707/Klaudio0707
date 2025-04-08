@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">💼 Front-end Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">💼 Front-end Developer | Full-Stack </h3>
 
 ###
 
@@ -46,7 +46,7 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
 
 
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
-
+<div style="display: flex; flex-direction: row; gap: 10px; justify-content: center; align-items: center;">
 <h4 align="left">🌐 Frontend</h4>
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="JavaScript logo" />
@@ -84,6 +84,7 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" height="40" alt="Figma logo" />
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" height="40" alt="IntelliJ logo" />
+</div>
 </div>
 
 ###
