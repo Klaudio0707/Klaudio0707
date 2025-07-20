@@ -21,9 +21,6 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
 
 <h3>🚀 Projetos em Destaque</h3>
 <div style="display: flex; flex-direction: row; gap: 10px; justify-content: center; align-items: center;">
-  <a href="https://calculadora-dio.netlify.app" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Calculadora_React-4285f4?style=for-the-badge" alt="Calculadora React">
-  </a>
    <a href="https://portfolioklaudiodev.vercel.app" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-4285f4?style=for-the-badge" alt="Portfolio">
   </a>
@@ -34,7 +31,7 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
     <img src="https://img.shields.io/badge/CineTascom-00FF01?style=for-the-badge" alt="CineTascom">
   </a>
   <a href="https://fintech-origamid-omega.vercel.app" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Fintech-00FF01?style=for-the-badge" alt="Fintech">
+    <img src="https://img.shields.io/badge/Fintech-4285f4?style=for-the-badge" alt="Fintech">
   </a>
 </div>     
 
