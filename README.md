@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="2560" height="1440" alt="banner" src="https://github.com/user-attachments/assets/1fa2982e-4ccf-4020-8b06-094da8e34717" />
+<img width="2560" height="900" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/82d59d53-2732-40f7-b3a4-b696be18dabc" />
+
 
 </div>
 
