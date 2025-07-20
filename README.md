@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://github.com/Klaudio0707/src-img/blob/main/pc.gif" alt="GIF Personalizado" />
+  <img width="2560" height="1440" alt="banner" src="https://github.com/user-attachments/assets/1fa2982e-4ccf-4020-8b06-094da8e34717" />
+
 </div>
 
 ###
@@ -8,11 +9,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Klaudio0707.visitor-badge" alt="Visitor Badge" />
 </div>
 
-###
-
-<h3 align="center">💼 Front-end Developer | Full-Stack </h3>
-
-###
 
 <h3 align="center">👩‍💻 Cláudio Roberto da Silva Filho</h3>
 
@@ -33,14 +29,17 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
   <a href="https://calculadora-dio.netlify.app" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Calculadora_React-4285f4?style=for-the-badge" alt="Calculadora React">
   </a>
+   <a href="https://portfolioklaudiodev.vercel.app" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-4285f4?style=for-the-badge" alt="Portfolio">
+  </a>
   <a href="https://simulador-fgts.netlify.app" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Simulador_FGTS-7B68EE?style=for-the-badge" alt="Simulador FGTS">
   </a>
-  <a href="https://git-find-gamma.vercel.app/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Find_GITHUB-4285f4?style=for-the-badge" alt="Find GitHub React">
+  <a href="https://cine-tascom.vercel.app" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/CineTascom-00FF01?style=for-the-badge" alt="CineTascom">
   </a>
-  <a href="https://tabela-8ji9dtpz8-claudio-robertos-projects.vercel.app/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Tabela_React-00FF00?style=for-the-badge" alt="Tabela React">
+  <a href="https://fintech-origamid-omega.vercel.app" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Fintech-00FF01?style=for-the-badge" alt="Fintech">
   </a>
 </div>     
 
