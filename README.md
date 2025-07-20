@@ -90,7 +90,7 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
 </div>
 ###
 
-<h3 align="left">🔥 Minhas Estatísticas</h3>
+<h3 align="center">🔥 Minhas Estatísticas</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaudio0707&layout=compact&langs_count=6&theme=dark" alt="Linguagens Mais Usadas" />
