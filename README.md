@@ -19,12 +19,6 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
 
 ###
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaudio0707&layout=compact&langs_count=6&theme=dark" alt="Linguagens Mais Usadas" />
-</div>
-
-###
-
 <h3>🚀 Projetos em Destaque</h3>
 <div style="display: flex; flex-direction: row; gap: 10px; justify-content: center; align-items: center;">
   <a href="https://calculadora-dio.netlify.app" target="_blank" style="text-decoration: none;">
@@ -99,5 +93,5 @@ Olá! Sou Cláudio, um desenvolvedor web apaixonado por criar soluções inovado
 <h3 align="left">🔥 Minhas Estatísticas</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Klaudio0707&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klaudio0707&layout=compact&langs_count=6&theme=dark" alt="Linguagens Mais Usadas" />
 </div>
