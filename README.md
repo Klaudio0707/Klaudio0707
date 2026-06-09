@@ -66,6 +66,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="JavaScript logo" title="JavaScript" />
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" height="40" alt="Vite logo" title="Vite" />
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="CSS logo" title="CSS" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" height="40" alt="Sass/SCSS logo" title="Sass/SCSS" />
     </div>
   </div>
 
