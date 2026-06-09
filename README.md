@@ -43,30 +43,28 @@
 
   <div>
     <h4>🔧 Backend & Infra</h4>
-    <div>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 300px;">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" height="40" alt="Java logo" title="Java" />
-      <img width="8" />
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" height="40" alt="Spring Boot logo" title="Spring Boot" />
-      <img width="8" />
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL" />
-      <img width="8" />
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="40" alt="Docker logo" title="Docker" />
-      <img width="8" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Light.svg" height="40" alt="Hibernate/JPA logo" title="Hibernate / JPA" />
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="40" alt="Node.js logo" title="Node.js" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="40" alt="MongoDB logo" title="MongoDB" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Light.svg" height="40" alt="Google Cloud logo" title="Google Cloud" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" height="40" alt="Firebase logo" title="Firebase" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="40" alt="Docker logo" title="Docker" />
     </div>
   </div>
 
   <div>
     <h4>🌐 Frontend</h4>
-    <div>
+    <div style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 250px;">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="React logo" title="React" />
-      <img width="8" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" height="40" alt="Next.js logo" title="Next.js" />
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" height="40" alt="Angular logo" title="Angular" />
-      <img width="8" />
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="40" alt="TypeScript logo" title="TypeScript" />
-      <img width="8" />
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="JavaScript logo" title="JavaScript" />
-      <img width="8" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" height="40" alt="Vite logo" title="Vite" />
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="CSS logo" title="CSS" />
     </div>
   </div>
