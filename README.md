@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/PartyTime-React_%7C_NestJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Party Time">
   </a>
   <a href="https://github.com/Klaudio0707/backend_partytime" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/PartyTime-Backend-NestJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Party Time">
+    <img src="https://img.shields.io/badge/PartyTime-Backend-React_%7C_NestJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Party Time">
   </a>
   <a href="https://github.com/Klaudio0707/mailsense" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/MailSense-IA_Generativa-FF9900?style=for-the-badge&logo=google-gemini&logoColor=white" alt="MailSense">
