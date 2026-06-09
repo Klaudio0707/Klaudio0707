@@ -19,7 +19,7 @@
 
 <h3 align="center">🚀 Projetos em Destaque</h3>
 <div align="center" style="display: flex; flex-direction: row; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
-   <a href="https://github.com/Klaudio0707/SEU_REPO_IMPORT_CONTROL" target="_blank" style="text-decoration: none;">
+   <a href="https://github.com/Klaudio0707/Import-Control" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Import_Control-Java_%7C_Spring-007396?style=for-the-badge&logo=java&logoColor=white" alt="Import Control">
   </a>
   <a href="https://github.com/Klaudio0707/front-partytime" target="_blank" style="text-decoration: none;">
